@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/muduo_server.dir/muduo_server.cpp.o -o /home/crhf/桌面/集群聊天/testmuduo/bin/muduo_server  -lmuduo_net -lmuduo_base -lpthread 
